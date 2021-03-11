@@ -372,7 +372,7 @@ td{
   background-color:rgb(233, 237, 241);
   margin-top:100px;
 }
-.exp11 a{
-  border-bottom: solid 2px black;
-  width:350px;
+.line{
+  border-bottom:solid 1.5px black;
+  max-width:350px; 
 }
