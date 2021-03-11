@@ -40,10 +40,10 @@
 }
 @media(max-width:400px){
   .start h1{
-    font-size:10px;
+    font-size:15px;
   }
   .start img{
-    height:30px;
+    height:38px;
   }
   .tt h1{
     font-size:35px;
