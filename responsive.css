@@ -54,4 +54,7 @@
   .expp img{
     width:300px;
   }
+  *{
+    font-family:"MS PGothic";
+  }
 } 
