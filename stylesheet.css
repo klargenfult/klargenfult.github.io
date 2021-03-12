@@ -381,3 +381,19 @@ td{
   background-color:rgb(233, 237, 241);
   margin-top:100px;
 }
+.exp4444 a{
+  font-size:20px;
+  padding-left:20px;
+  font-weight: bold;
+}
+.exp4444{
+  padding:60px 0 0 10px;
+}
+.exp4444 p{
+  padding:0 20px 0px 10px;
+  line-height:30px;
+  letter-spacing:1.5px;
+}
+.exp4444 span{
+  font-weight: bold;
+}
