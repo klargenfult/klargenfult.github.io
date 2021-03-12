@@ -32,9 +32,6 @@
   .exp-wrapper3{
     display:block;
   }
-  .exp4444{
-    display:none;
-  }
 }
 @media(max-width:600px){
   .ee{
@@ -84,8 +81,11 @@
   .ex333 a{
     padding-left:15px;
   }
-  .exp444{
+  .exp-wrapper3{
     display:none;
+  }
+  .exp-wrapper{
+    display:block;
   }
   .exp4444 a{
     padding-left:15px;
