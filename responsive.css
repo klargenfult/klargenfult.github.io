@@ -57,4 +57,31 @@
   *{
     font-family:"MS PGothic";
   }
-} 
+  .exp-heading{
+    font-size:15px;
+  }
+  .exp11 img{
+    width:80px;
+  }
+  .exp22 img{
+    width:80px;
+  }
+  .exp333 img{
+    width:70px;
+  }
+  .exp444 img{
+    width:80px;
+  }
+  .exp11 a{
+    padding-left:15px;
+  }
+  .exp22 a{
+    padding-left:15px;
+  }
+  .ex333 a{
+    padding-left:15px;
+  }
+  .exp444 a{
+    padding-left:15px;
+  }
+}  
