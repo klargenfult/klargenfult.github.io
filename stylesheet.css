@@ -407,7 +407,7 @@ td{
 }
 #nav{
   position: fixed;
-  height: 100vh;
+  height: 200vh;
   width: 55%;
   right: -55%;
   top: 0;
