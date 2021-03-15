@@ -96,14 +96,14 @@
   .ttt {
   position:absolute;
   width: 100%;
-}
+  }
 #nav{
   position: fixed;
   height: 200vh;
-  width: 55%;
+  width: 20%;
   right: -42%;
   top: 0;
   background: #ffffff;
   transition: .7s;
-}
+  }
 }  
