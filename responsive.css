@@ -100,10 +100,14 @@
 #nav{
   position: fixed;
   height: 200vh;
-  width: 20%;
+  width: 50%;
   right: -42%;
   top: 0;
   background: #ffffff;
   transition: .7s;
+  }
+body{
+  padding-right:0;
+  margin-right:0;
   }
 }  
