@@ -106,7 +106,7 @@
   background: #ffffff;
   transition: .7s;
   }
-.conteiner{
-  padding-right:50px;
+body{
+  overflow:hidden;
   }
 }  
