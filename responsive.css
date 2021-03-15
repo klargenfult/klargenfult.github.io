@@ -98,8 +98,8 @@
   width: 100%;
   }
 #nav{
-  position: fixed;
-  height: 250px;
+  position: absolute;
+  height:500px;
   width: 55%;
   right: -42%;
   top: 0;
