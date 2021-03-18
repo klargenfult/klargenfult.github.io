@@ -105,7 +105,8 @@
     background: #ffffff;
     transition: .7s;
   }
-  .wrapper{
+  body{
     overflow-x:hidden;
+    position:relative;
   }
 }  
