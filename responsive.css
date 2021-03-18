@@ -106,6 +106,6 @@
     transition: .7s;
   }
   body{
-    overflow-x:hidden;
+    overflow:hidden;
   }
 }  
