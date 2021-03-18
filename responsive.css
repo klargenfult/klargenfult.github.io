@@ -95,6 +95,7 @@
   }
   .ttt {
   position:absolute;
+    margin-left:auto;
   }
 #nav{
   position: fixed;
