@@ -414,6 +414,9 @@ td{
   top: 0;
   background: #ffffff;
   transition: .7s;
+  max-width: 330px;
+  -webkit-transform: translateX(105%);
+  transform: translateX(105%);
 }
 #nav ul{
   padding-top: 80px;
@@ -465,7 +468,7 @@ td{
   top: 20px;
 }
 .in{
-  transform: translateX(-105%);
+  transform: translateX(-80%);
 }
 .line_1,.line_2,.line_3{
   background: #000000;
