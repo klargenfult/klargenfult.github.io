@@ -497,7 +497,7 @@ a{
   z-index: 3;
   float: right;
   cursor: pointer;  
-  padding-top:30px;
+  top:30px;
 background-color:transparent;
 border:none;
 }
