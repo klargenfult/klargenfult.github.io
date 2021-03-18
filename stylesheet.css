@@ -467,9 +467,6 @@ td{
 #line3 {
   top: 20px;
 }
-.in{
-  transform: translateX(-80%);
-}
 .line_1,.line_2,.line_3{
   background: #000000;
 }
