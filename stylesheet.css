@@ -554,6 +554,9 @@ border:none;
     transform: translate(-50%,-50%);
     text-align: center;
 }
+.he nav .nav-list{
+    display:block;
+}
 .he nav .nav-item{
     margin-right: 0;
     margin-bottom: 40px;
