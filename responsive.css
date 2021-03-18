@@ -93,19 +93,16 @@
   .exp4444 a{
     padding-left:15px;
   }
-  .ttt {
-  position:absolute;
+  .top-wrapper2 p{
+    font-size:17px;
   }
-  #nav{
-    position: fixed;
-    height:430px;
-    width: 55%;
-    right: -50%;
-    top: 0;
-    background: #ffffff;
-    transition: .7s;
+  .ttt{
+    display:none;
   }
-  .wrapper{
-    overflow-x:hidden;
+  .he{
+    display: block;
   }
-}  
+ .wrapper{
+   overflow-x:hidden;
+  }  
+}
