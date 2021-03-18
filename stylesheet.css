@@ -402,14 +402,15 @@ td{
 }
 
 .ttt {
-  position:absolute;
+  position:relative;
   width: 100%;
+  margin-left:auto;
 }
 #nav{
   position: fixed;
   height: 200vh;
-  width: 55%;
-  right: -55%;
+  width: 90%;
+  right: 0;
   top: 0;
   background: #ffffff;
   transition: .7s;
@@ -464,7 +465,7 @@ td{
   top: 20px;
 }
 .in{
-  transform: translateX(-80%);
+  transform: translateX(105%);
 }
 .line_1,.line_2,.line_3{
   background: #000000;
